@@ -6,6 +6,13 @@ header {
 
 p {
     background-color: gold;
-    border: 5px;
-    border-color: black;
+    border: 5px solid black;
+}
+
+.wide {
+    width: 300px;
+}
+
+.center {
+    margin: auto;
 }
